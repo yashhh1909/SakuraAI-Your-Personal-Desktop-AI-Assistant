@@ -46,6 +46,50 @@ Fun facts, trivia, and jokes
 
 Spiritual wisdom from the Bhagavad Gita (karma, dharma, moksha, yoga, etc.)
 
+# Tech Stack Used
+
+Core Language
+
+Python 3.10+ – Main programming language.
+
+# Voice & Audio
+
+SpeechRecognition – For converting speech to text (voice commands).
+
+edge-tts – For text-to-speech (assistant’s voice).
+
+playsound – To play generated audio responses.
+
+# Web & Knowledge Integration
+
+webbrowser – Opens websites like Google, YouTube, Amazon, Spotify.
+
+wikipedia – Fetches summaries for queries.
+
+# System & App Control
+
+pygetwindow – To get and manage running app windows.
+
+pyautogui – For UI automation (like closing tabs/apps).
+
+subprocess, os, winreg – For launching and managing Windows apps.
+
+# GUI / User Interface
+
+tkinter – For the chat window interface.
+
+Pillow (PIL) – For handling images, animations, and icons in the GUI.
+
+# Utilities
+
+datetime – Telling time and date.
+
+re – Regex parsing for commands.
+
+threading / asyncio – Handles background tasks smoothly.
+
+time, random, shutil, sys – General utilities for timers, randomness, and system operations.
+
 
 # 🖥️ System Requirements
 
@@ -55,7 +99,11 @@ Internet: Required for most features
 
 Microphone: Required for voice commands
 
+# Notes
 
+This is a hobby project → expect small bugs.
 
+Works best with lowercase typed input.
 
+Voice commands require a microphone.
 ⚠️ Press F2 once only – don’t hold or double press.
