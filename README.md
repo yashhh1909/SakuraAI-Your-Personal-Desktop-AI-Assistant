@@ -1,6 +1,8 @@
 # 🌸SakuraAI-Your-Personal-Desktop-AI-Assistant
 SakuraAI is a desktop AI companion for Windows that blends productivity tools with a playful, anime-inspired personality. Whether you want to open apps, search the web, play music, or just chat, SakuraAI is always one command away.
 
+
+
 # 🚀 Features
 # 🔊 Voice & Chat Interaction
 
@@ -45,6 +47,9 @@ Motivational & supportive phrases
 Fun facts, trivia, and jokes
 
 Spiritual wisdom from the Bhagavad Gita (karma, dharma, moksha, yoga, etc.)
+
+
+
 
 # Tech Stack Used
 
@@ -91,6 +96,9 @@ threading / asyncio – Handles background tasks smoothly.
 time, random, shutil, sys – General utilities for timers, randomness, and system operations.
 
 
+
+
+
 # 🖥️ System Requirements
 
 OS: Windows 10 / 11
@@ -98,6 +106,9 @@ OS: Windows 10 / 11
 Internet: Required for most features
 
 Microphone: Required for voice commands
+
+
+
 
 # Notes
 
