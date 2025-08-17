@@ -3,7 +3,7 @@ SakuraAI is a desktop AI companion for Windows that blends productivity tools wi
 
 
 
-# 🚀 Features
+
 # 🔊 Voice & Chat Interaction
 
 Chat Mode: Type prompts in the chat window.
